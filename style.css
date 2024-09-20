@@ -1,15 +1,25 @@
-.fancytext
-{
-    color:white;
-    font-family: "Libre Baskerville", serif;
-    font-weight: 700;
-    font-style: normal;
-}
-
 body{
     background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.fancytext{
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 20px;
 }
 
 .image{
     border: 5px solid white;
+    width: 100%; 
 }
