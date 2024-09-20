@@ -1,7 +1,11 @@
 .fancytext
 {
-    color:red;
+    color:white;
     font-family: "Libre Baskerville", serif;
     font-weight: 700;
     font-style: normal;
+}
+
+body{
+    background-color: black;
 }
